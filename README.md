@@ -3,4 +3,7 @@
 
 # Usage
 
+chmod +x Subdomain.sh
+
+./Subdomain.sh target.com
 
